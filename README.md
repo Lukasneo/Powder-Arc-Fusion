@@ -1,3 +1,6 @@
+Update: a new more detailed version is published over at https://zenodo.org/records/22836911
+
+
 With Powder Arc Fusion (PAF), we aim to revolutionize the world of metal additive manufacturing and make it accessible to a broad audience. While existing technologies like SLM (Selective Laser Melting) involve high costs,
 complex systems, and limited availability, PAF is designed to offer robust, high-quality metal 3D printing at a fraction of the cost – enabling prototyping,
 small-series production, and creative projects.
